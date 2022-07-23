@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    color: #000;
+}
+/* main hading are css */
+.main-hading {
+    font-size: 48px;
+    font-weight: bold;
+    font-style: normal;
+    color: #31A5AC;
+}
+/* count area css */
+.count-area {
+    background: #F8F8F8;
+    padding: 20px 30px;
+}
+/* sub title area css */
+.sub-title {
+    font-size: 22px;
+    font-weight: 500;
+    font-style: normal;
+}
+/* input name area csss */
+.input-name {
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* input flied area css */
+.input-flied {
+    margin-left: 25px;
+    background-color: #DCDCDC;
+    width: 230px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
+/* input save flied */
+.input-save-flied {
+    margin-left: 25px;
+    background-color: #DCDCDC;
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
+/* btn style css */
+.btn-style {
+    background-color: #59A5FF;
+    padding: 10px 20px;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+    border: none;
+    border-radius: 2px;
+}
+/* persent-icon */
+.persent-icon {
+    font-size: 22px;
+    width: 50px;
+    height: 40px;
+    background: #fff;
+    padding: 10px 20px;
+}
